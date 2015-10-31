@@ -21,6 +21,9 @@
         <item name="android:typeface">normal</item>
         <item name="android:background">@color/colorButton</item>
         <item name="android:layout_marginTop">10sp</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:minHeight">?android:attr/listPreferredItemHeight</item>
+        <item name="android:gravity">center</item>g
     </style>
 
     <style name="TitleStyle">

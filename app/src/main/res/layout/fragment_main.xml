@@ -36,56 +36,31 @@
             </Button>
 
             <Button xmlns:android="http://schemas.android.com/apk/res/android"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:gravity="center"
-                android:minHeight="?android:attr/listPreferredItemHeight"
                 android:text="@string/app_scores"
-                android:textSize="18sp"
                 android:onClick="launchApp"
                 style="@style/ButtonStyle">
             </Button>
 
             <Button xmlns:android="http://schemas.android.com/apk/res/android"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:gravity="center"
-                android:minHeight="?android:attr/listPreferredItemHeight"
                 android:text="@string/app_library"
-                android:textSize="18sp"
                 android:onClick="launchApp"
                 style="@style/ButtonStyle">
             </Button>
 
             <Button xmlns:android="http://schemas.android.com/apk/res/android"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:gravity="center"
-                android:minHeight="?android:attr/listPreferredItemHeight"
                 android:text="@string/app_buildbigger"
-                android:textSize="18sp"
                 android:onClick="launchApp"
                 style="@style/ButtonStyle">
             </Button>
 
             <Button xmlns:android="http://schemas.android.com/apk/res/android"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:gravity="center"
-                android:minHeight="?android:attr/listPreferredItemHeight"
                 android:text="@string/app_xyz"
-                android:textSize="18sp"
                 android:onClick="launchApp"
                 style="@style/ButtonStyle">
             </Button>
 
             <Button xmlns:android="http://schemas.android.com/apk/res/android"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:gravity="center"
-                android:minHeight="?android:attr/listPreferredItemHeight"
                 android:text="@string/app_capstone"
-                android:textSize="18sp"
                 android:onClick="launchApp"
                 style="@style/ButtonStyle">
             </Button>
@@ -93,7 +68,5 @@
         </LinearLayout>
 
     </ScrollView>
-
-
 
 </RelativeLayout>
